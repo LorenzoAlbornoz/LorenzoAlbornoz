@@ -1,23 +1,4 @@
-
-<h1 align="center"><b>Hi , I'm Lorenzo Albornoz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Lorenzo Albornoz</a> 👋</h1>
 </div>
-
-<br>
-<br>
-<br>
-
------
+<img src="https://res.cloudinary.com/dcwpf7ghu/image/upload/v1711067972/Lorenzo_Albornoz_portada_ato6yn.jpg">
