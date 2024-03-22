@@ -6,9 +6,17 @@
 </p>
 
 <div align="center">
-<h1 align="center">Hi, I'm <a href="https://aristi.dev">Lorenzo Albornoz</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://aristi.dev">Lorenzo Albornoz</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
-<img src="https://res.cloudinary.com/dcwpf7ghu/image/upload/v1711067972/Lorenzo_Albornoz_portada_ato6yn.jpg">
+<img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
+
+<br>
+
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+
 
 <br>
 
