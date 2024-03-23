@@ -13,11 +13,12 @@
 <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png">
 <br>
 
-<br><br>
-<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
-<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+## <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px> About me
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" width="500" alt="GIF"/>
+
 -🚀 My career as a Fullstack Web Developer has undergone a significant transformation in the last two years.
 <br>
 -💡 I decided to immerse myself in the fascinating digital world, awakening my interest in web development.
