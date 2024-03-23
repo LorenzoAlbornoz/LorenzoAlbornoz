@@ -19,6 +19,7 @@
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" width="500" alt="GIF"/>
 
+
 -🚀 My career as a Fullstack Web Developer has undergone a significant transformation in the last two years.
 <br>
 -💡 I decided to immerse myself in the fascinating digital world, awakening my interest in web development.
